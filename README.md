@@ -18,7 +18,7 @@ Documentado fase por fase como registro técnico del trabajo realizado.
 
 ## 📍 Topología de Red
 
-![Topología DHEXIO](TOPOLOGIA_RED_HOMELAD_DHEXIO.jpg)
+TOPOLOGIA_RED_HOMELAD_DHEXIO.jpg
 
 ---
 
