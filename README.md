@@ -20,6 +20,12 @@ Documentado fase por fase como registro técnico del trabajo realizado.
 
 ![Topología DHEXIO](TOPOLOGIA%20RED%20HOMELAD%20DHEXIO.jpg)
 
+## 🧪 Fase 2 — Simulación de VLANs y Routing (Cisco Packet Tracer)
+
+Antes de aplicar la segmentación en los switches Cisco reales del laboratorio (2950/2960), se diseñó y validó el escenario completo en Cisco Packet Tracer: routing inter-VLAN, conectividad entre segmentos y comportamiento esperado antes de tocar el hardware físico.
+
+![Simulación Packet Tracer](PACKET_TRACER_VLANS_SIMULACION.png.PNG)
+
 ---
 
 ## 🗺️ Progreso del Proyecto
@@ -27,11 +33,12 @@ Documentado fase por fase como registro técnico del trabajo realizado.
 | Fase | Estado |
 |---|---|
 | Fase 1 — Topología y segmentación VLANs | ✅ Completado |
-| Fase 2 — Active Directory | 🔨 En construcción |
-| Fase 3 — OPNsense (NAT, routing, firewall) | 🔨 En construcción |
-| Fase 4 — Docker / servicios | 🔨 En construcción |
-| Fase 5 — VPN WireGuard | 🔨 En construcción |
-| Fase 6 — Hardening y seguridad | 🔨 En construcción |
+| Fase 2 — Simulación VLANs (Packet Tracer) | ✅ Completado |
+| Fase 3 — Active Directory | 🔨 En construcción |
+| Fase 4 — OPNsense (NAT, routing, firewall) | 🔨 En construcción |
+| Fase 5 — Docker / servicios | 🔨 En construcción |
+| Fase 6 — VPN WireGuard | 🔨 En construcción |
+| Fase 7 — Hardening y seguridad | 🔨 En construcción |
 
 ---
 
